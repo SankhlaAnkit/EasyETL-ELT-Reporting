@@ -7,9 +7,9 @@ Welcome to one stop solution for all your ETL/ELT requirements without the hassl
 Here all you require is Python installed on your system, import some libraries and voila, you are good to go.
 
 Problem that I faced with most of the ETL/ELT applications:-
-1.Most ETL application require defining the source files, format, connections, define database tables before hand. All these steps are very cumbersome and requires lot of manual efforts.
+1.Most ETL application require defining the source files, format, connections, define database tables before hand. All these steps are very cumbersome and require lot of manual efforts.
 2.Almost none of the ETL/ELT applications provide you the capability to create Stored procedures that you can edit and re-use at will.
-3.Next, if you have requriement to generate ad-hoc reports that require writing huge queries, customizing the columns, saving the quries for reuseability in different environments ( Dev/QA/PROD)
+3.Next, if you have requriement to generate ad-hoc reports that require writing huge queries, customizing the columns, saving the queries for reusability in different environments ( Dev/QA/PROD)
 
 All this lead me to create a simple Drag Drop operation style application.Here leave everything up to the application to automate the desired outcome
 
